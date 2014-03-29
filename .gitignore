@@ -1,0 +1,2 @@
+$ git config --global user.name "pwedgar"
+$ git config --global user.email "phillip@alphacoded.com"
